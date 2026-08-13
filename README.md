@@ -4,7 +4,14 @@ A recipe site organised by alphabet, category and ingredient, built with HTML an
 
 **Live site:** https://cook-book-hub-webpage.netlify.app/
 
-![Cook Book Hub](screenshot.png)
+![Cook Book Hub]
+<img width="1903" height="933" alt="image" src="https://github.com/user-attachments/assets/1108993c-11ae-47f0-b81b-6e2e3fbc3a68" />
+<img width="1883" height="931" alt="image" src="https://github.com/user-attachments/assets/7b5d497c-0f8c-4ab6-b1e4-bf1b26b8c15d" />
+<img width="391" height="808" alt="image" src="https://github.com/user-attachments/assets/d342d5a9-0546-43a1-bdec-ff4881e0c093" />
+
+
+
+
 
 ## About
 
